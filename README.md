@@ -9,7 +9,7 @@ This project involves forecasting future sales for an e-commerce store using his
 
 ## Columns Description
 
-The dataset contains the following columns:
+The dataset contains the following columns: 
 
 - **Style**: Style of the product.
 - **SKU**: Stock Keeping Unit.
