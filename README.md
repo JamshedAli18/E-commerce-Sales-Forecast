@@ -21,6 +21,13 @@ The dataset contains the following columns:
 - **RATE**: Price per piece.
 - **GROSS AMT**: Total amount of the sale.
 
+## Dataset Columns after removing irrevlent features
+
+- **DATE**: Date of the sale.
+- **PCS**: Number of pieces sold.
+- **RATE**: Price per piece.
+- **GROSS AMT**: Total amount of the sale.
+
 ## Instructions
 
 1. Clone the repository:
