@@ -5,7 +5,7 @@ This project involves forecasting future sales for an e-commerce store using his
 ## Files
 
 - `ecommerce_sales.csv`: Dataset used for the analysis.
-- `sales_forecast.py`: Python script containing the sales forecasting model and evaluation.
+- `sales_forecast.ipynb`: Python script containing the sales forecasting model and evaluation.
 
 ## Columns Description
 
